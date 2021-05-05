@@ -1,0 +1,92 @@
+Island,Site,Treatment,Quadrat,network_lower_level,network_lower_level_shorthand,normalised.degree,proportional.generality,longitude_x,latitude_y,CaCo_index,Foliage_projective_cover ,No._R.apiculata_mature,Mean_Circumference_cm_R.apiculata_mature,Mean_DBH_cm_R.apiculata_mature,Biomass_index_R.apiculata,No._R.mucronata_mature,Mean_Circumference_cm_R.mucronata_mature,Mean_DBH_cm_R.mucronata_mature,Biomass_index_R.mucronata,No._B.gymnorrhiza_mature,Mean_Circumference_cm_B.gymnorrhiza_mature,Mean_DBH_cm_B.gymnorrhiza_mature,Biomass_index_B.gymnorrhiza,No._C.tagal_mature,Mean_Circumference_cm_C.tagal_mature,Mean_DBH_cm_C.tagal_mature,Biomass_index_C.tagal
+Sulawesi,Likupang,Monoculture Reforestation,LKA,Rhizophora apiculata,P06,0.727272727,1.877682754,125.0432036,1.670515492,73.93,71.3,18,21.83,6.95,125.1,26,24.27,7.73,200.98,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKA,Rhizophora mucronata,P07,0.181818182,0.751659536,125.0432036,1.670515492,73.93,71.3,18,21.83,6.95,125.1,26,24.27,7.73,200.98,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKA,sediment,S,0.272727273,0.638037134,125.0432036,1.670515492,73.93,71.3,18,21.83,6.95,125.1,26,24.27,7.73,200.98,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKB,Rhizophora apiculata,P06,0.25,1.229686406,125.0429911,1.670488253,77.69,57.3,3,22.33,7.11,21.33,43,21.98,7,301,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKB,Rhizophora mucronata,P07,0.75,2.371219544,125.0429911,1.670488253,77.69,57.3,3,22.33,7.11,21.33,43,21.98,7,301,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKB,sediment,S,0.125,0.614843203,125.0429911,1.670488253,77.69,57.3,3,22.33,7.11,21.33,43,21.98,7,301,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKC,Rhizophora mucronata,P07,0.714285714,1.130991511,125.0431371,1.670287978,80.4,65.7,0,0,0,0,43,19,6.05,260.15,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LKC,sediment,S,0.428571429,0.817494577,125.0431371,1.670287978,80.4,65.7,0,0,0,0,43,19,6.05,260.15,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LK4,Rhizophora mucronata,P07,0.875,1.869567636,125.0428438,1.670086957,43.37,43.4,0,0,0,0,32,21,6.69,214.08,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LK4,sediment,S,0.125,0.57368202,125.0428438,1.670086957,43.37,43.4,0,0,0,0,32,21,6.69,214.08,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LK5,Rhizophora mucronata,P07,1,2.287323108,125.04275,1.670466667,84.76,51.67,0,0,0,0,53,20,6.37,337.61,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LK5,sediment,S,0.1,0.578976983,125.04275,1.670466667,84.76,51.67,0,0,0,0,53,20,6.37,337.61,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LK6,Rhizophora mucronata,P07,0.909090909,1.996721474,125.0427833,1.6703,61.5,43.3,0,0,0,0,38,21.92,6.98,265.24,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Monoculture Reforestation,LK6,sediment,S,0.272727273,0.702271501,125.0427833,1.6703,61.5,43.3,0,0,0,0,38,21.92,6.98,265.24,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK7,Rhizophora apiculata,P06,0.5,1.72258336,125.0405333,1.672933333,83.47,79,6,34.33,10.93,65.58,10,29.8,9.49,94.9,3,21.67,6.9,20.7,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK7,Rhizophora mucronata,P07,0.4,1.631842585,125.0405333,1.672933333,83.47,79,6,34.33,10.93,65.58,10,29.8,9.49,94.9,3,21.67,6.9,20.7,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK7,sediment,S,0.1,0.43064584,125.0405333,1.672933333,83.47,79,6,34.33,10.93,65.58,10,29.8,9.49,94.9,3,21.67,6.9,20.7,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK8,Bruguiera gymnorrhiza,P02,0.2,1.235955162,125.0407,1.67305,83.62,78.3,0,0,0,0,6,23.17,7.38,44.28,13,17.46,5.56,72.28,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK8,Rhizophora apiculata,P06,0.6,3.351164156,125.0407,1.67305,83.62,78.3,0,0,0,0,6,23.17,7.38,44.28,13,17.46,5.56,72.28,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK8,sediment,S,0.1,0.749343086,125.0407,1.67305,83.62,78.3,0,0,0,0,6,23.17,7.38,44.28,13,17.46,5.56,72.28,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK9,Bruguiera gymnorrhiza,P02,0.444444444,1.447693186,125.0408333,1.6732,73.48,46.67,8,29.13,9.28,74.24,0,0,0,0,5,22,7.01,35.05,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK9,Rhizophora apiculata,P06,0.222222222,1.047841545,125.0408333,1.6732,73.48,46.67,8,29.13,9.28,74.24,0,0,0,0,5,22,7.01,35.05,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK9,Rhizophora mucronata,P07,0.111111111,0.597140549,125.0408333,1.6732,73.48,46.67,8,29.13,9.28,74.24,0,0,0,0,5,22,7.01,35.05,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK9,sediment,S,0.222222222,0.754416173,125.0408333,1.6732,73.48,46.67,8,29.13,9.28,74.24,0,0,0,0,5,22,7.01,35.05,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK10,Bruguiera gymnorrhiza,P02,0.055555556,0.411643968,125.0408167,1.673383333,82.8,92.67,1,15,4.78,4.78,19,28.58,9.1,172.9,3,14.33,4.56,13.68,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK10,Rhizophora mucronata,P07,0.833333333,2.601017544,125.0408167,1.673383333,82.8,92.67,1,15,4.78,4.78,19,28.58,9.1,172.9,3,14.33,4.56,13.68,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK10,sediment,S,0.111111111,0.743226665,125.0408167,1.673383333,82.8,92.67,1,15,4.78,4.78,19,28.58,9.1,172.9,3,14.33,4.56,13.68,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK11,Bruguiera gymnorrhiza,P02,0.133333333,0.409493948,125.0411667,1.67335,74.42,78.3,3,26.67,8.49,25.47,11,30.91,9.84,108.24,4,13.5,4.3,17.2,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK11,Ceriops tagal,P05,0.2,0.614240923,125.0411667,1.67335,74.42,78.3,3,26.67,8.49,25.47,11,30.91,9.84,108.24,4,13.5,4.3,17.2,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK11,Rhizophora mucronata,P07,0.4,0.436799582,125.0411667,1.67335,74.42,78.3,3,26.67,8.49,25.47,11,30.91,9.84,108.24,4,13.5,4.3,17.2,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK11,sediment,S,0.333333333,0.832572009,125.0411667,1.67335,74.42,78.3,3,26.67,8.49,25.47,11,30.91,9.84,108.24,4,13.5,4.3,17.2,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK12,Bruguiera gymnorrhiza,P02,0.083333333,0.594022032,125.0411333,1.673533333,72.82,78.3,0,0,0,0,17,47.53,15.14,257.38,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK12,Rhizophora mucronata,P07,0.916666667,2.498063884,125.0411333,1.673533333,72.82,78.3,0,0,0,0,17,47.53,15.14,257.38,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Mixed Species Regeneration,LK12,sediment,S,0.083333333,0.594022032,125.0411333,1.673533333,72.82,78.3,0,0,0,0,17,47.53,15.14,257.38,0,0,0,0,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK13,Bruguiera gymnorrhiza,P02,0.6,5.898031776,125.0411079,1.67473321,89.36,92,2,93,29.62,59.24,0,0,0,0,24,21.79,6.94,166.56,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK13,Rhizophora apiculata,P06,0.2,1.332615047,125.0411079,1.67473321,89.36,92,2,93,29.62,59.24,0,0,0,0,24,21.79,6.94,166.56,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK13,sediment,S,0.133333333,0.873324472,125.0411079,1.67473321,89.36,92,2,93,29.62,59.24,0,0,0,0,24,21.79,6.94,166.56,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK14,Bruguiera gymnorrhiza,P02,0.75,3.084900749,125.0412797,1.674731034,82.52,53.3,0,0,0,0,4,23.25,7.4,29.6,19,28.63,9.12,173.28,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK14,Rhizophora mucronata,P07,0.1,0.546274576,125.0412797,1.674731034,82.52,53.3,0,0,0,0,4,23.25,7.4,29.6,19,28.63,9.12,173.28,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK14,sediment,S,0.15,0.761086738,125.0412797,1.674731034,82.52,53.3,0,0,0,0,4,23.25,7.4,29.6,19,28.63,9.12,173.28,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK15,Bruguiera gymnorrhiza,P02,0.714285714,6.125147686,125.0409191,1.674779674,84.14,97,11,47.45,15.11,166.21,0,0,0,0,12,32.75,10.63,127.56,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK15,Rhizophora apiculata,P06,0.285714286,2.170780888,125.0409191,1.674779674,84.14,97,11,47.45,15.11,166.21,0,0,0,0,12,32.75,10.63,127.56,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK15,sediment,S,0.071428571,0.674896798,125.0409191,1.674779674,84.14,97,11,47.45,15.11,166.21,0,0,0,0,12,32.75,10.63,127.56,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK16,Bruguiera gymnorrhiza,P02,0.5,2.21864706,125.0408452,1.67470441,87.04,91.3,6,69,21.97,131.82,1,23,7.324840764,7.324840764,9,27.78,8.85,79.65,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK16,Rhizophora apiculata,P06,0.416666667,2.327287074,125.0408452,1.67470441,87.04,91.3,6,69,21.97,131.82,1,23,7.324840764,7.324840764,9,27.78,8.85,79.65,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK16,sediment,S,0.166666667,0.815870481,125.0408452,1.67470441,87.04,91.3,6,69,21.97,131.82,1,23,7.324840764,7.324840764,9,27.78,8.85,79.65,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK17,Bruguiera gymnorrhiza,P02,0.615384615,2.779603636,125.0407081,1.674866085,82.75,94.33,4,31.75,10.11,40.44,2,29.5,9.39,18.78,23,26.43,8.42,193.66,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK17,Rhizophora mucronata,P07,0.153846154,1.423788772,125.0407081,1.674866085,82.75,94.33,4,31.75,10.11,40.44,2,29.5,9.39,18.78,23,26.43,8.42,193.66,0,0,0,0
+Sulawesi,Likupang,Reference Forest,LK17,sediment,S,0.076923077,0.753374598,125.0407081,1.674866085,82.75,94.33,4,31.75,10.11,40.44,2,29.5,9.39,18.78,23,26.43,8.42,193.66,0,0,0,0
+Sulawesi,Tiwoho,Monoculture Reforestation,TW1,Ceriops tagal,P05,0.8,1.735992595,124.8448891,1.594312947,48.57,33.6,0,0,0,0,0,0,0,0,0,0,0,0,20,12.65,4.03,80.6
+Sulawesi,Tiwoho,Monoculture Reforestation,TW1,sediment,S,0.133333333,0.769231947,124.8448891,1.594312947,48.57,33.6,0,0,0,0,0,0,0,0,0,0,0,0,20,12.65,4.03,80.6
+Sulawesi,Tiwoho,Monoculture Reforestation,TW2,Ceriops tagal,P05,0.888888889,5.419789058,124.8449679,1.594253316,24.97,22.9,2,11.5,3.66,7.32,0,0,0,0,0,0,0,0,23,10.48,3.34,76.82
+Sulawesi,Tiwoho,Monoculture Reforestation,TW2,sediment,S,0.111111111,0.844194872,124.8449679,1.594253316,24.97,22.9,2,11.5,3.66,7.32,0,0,0,0,0,0,0,0,23,10.48,3.34,76.82
+Sulawesi,Tiwoho,Monoculture Reforestation,TW3,Ceriops tagal,P05,0.75,2.215097763,124.844734,1.594198713,2.71,17.4,0,0,0,0,0,0,0,0,0,0,0,0,13,13.96,4.36,56.68
+Sulawesi,Tiwoho,Monoculture Reforestation,TW3,sediment,S,0.25,0.930282767,124.844734,1.594198713,2.71,17.4,0,0,0,0,0,0,0,0,0,0,0,0,13,13.96,4.36,56.68
+Sulawesi,Tiwoho,Monoculture Reforestation,TW4,Bruguiera gymnorrhiza,P02,0.3125,3.079166388,124.844894,1.594112159,13.03,3.8,4,18.5,5.89,23.56,0,0,0,0,0,0,0,0,8,8.5,2.71,21.68
+Sulawesi,Tiwoho,Monoculture Reforestation,TW4,Ceriops tagal,P05,0.625,5.570478487,124.844894,1.594112159,13.03,3.8,4,18.5,5.89,23.56,0,0,0,0,0,0,0,0,8,8.5,2.71,21.68
+Sulawesi,Tiwoho,Monoculture Reforestation,TW4,sediment,S,0.125,0.812678555,124.844894,1.594112159,13.03,3.8,4,18.5,5.89,23.56,0,0,0,0,0,0,0,0,8,8.5,2.71,21.68
+Sulawesi,Tiwoho,Monoculture Reforestation,TW5,Bruguiera gymnorrhiza,P02,0.166666667,1.430721657,124.844781,1.594043645,12.52,6.6,3,18.67,5.94,17.82,0,0,0,0,0,0,0,0,13,8.69,2.77,36.01
+Sulawesi,Tiwoho,Monoculture Reforestation,TW5,Ceriops tagal,P05,0.833333333,6.813387191,124.844781,1.594043645,12.52,6.6,3,18.67,5.94,17.82,0,0,0,0,0,0,0,0,13,8.69,2.77,36.01
+Sulawesi,Tiwoho,Monoculture Reforestation,TW5,sediment,S,0.083333333,0.715360829,124.844781,1.594043645,12.52,6.6,3,18.67,5.94,17.82,0,0,0,0,0,0,0,0,13,8.69,2.77,36.01
+Sulawesi,Tiwoho,Monoculture Reforestation,TW6,Ceriops tagal,P05,0.714285714,3.259021784,124.8448397,1.593929992,31.69,14.8,0,0,0,0,0,0,0,0,0,0,0,0,19,12.68,4.04,76.76
+Sulawesi,Tiwoho,Monoculture Reforestation,TW6,sediment,S,0.142857143,0.875511704,124.8448397,1.593929992,31.69,14.8,0,0,0,0,0,0,0,0,0,0,0,0,19,12.68,4.04,76.76
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW7,Rhizophora apiculata,P06,0.7,1.247880409,124.8467897,1.594248237,67.01,79.6,21,25.1,7.99,167.79,0,0,0,0,0,0,0,0,0,0,0,0
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW7,sediment,S,0.1,0.621005961,124.8467897,1.594248237,67.01,79.6,21,25.1,7.99,167.79,0,0,0,0,0,0,0,0,0,0,0,0
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW8,Rhizophora apiculata,P06,0.75,1.280134709,124.8465412,1.594214421,62.95,93.8,34,29.82,9.5,323,0,0,0,0,0,0,0,0,0,0,0,0
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW8,sediment,S,0.375,0.848052547,124.8465412,1.594214421,62.95,93.8,34,29.82,9.5,323,0,0,0,0,0,0,0,0,0,0,0,0
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW9,Rhizophora apiculata,P06,0.933333333,1.289038897,124.8464675,1.594023468,78.74,61,6,25.17,8.01,48.06,0,0,0,0,0,0,0,0,0,0,0,0
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW9,sediment,S,0.066666667,0.610262215,124.8464675,1.594023468,78.74,61,6,25.17,8.01,48.06,0,0,0,0,0,0,0,0,0,0,0,0
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW10,Ceriops tagal,P05,0.1,0.589126326,124.84639,1.594530865,58.47,83.7,27,27.22,8.67,234.09,0,0,0,0,0,0,0,0,8,21,6.69,53.52
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW10,Rhizophora apiculata,P06,0.6,3.340136967,124.84639,1.594530865,58.47,83.7,27,27.22,8.67,234.09,0,0,0,0,0,0,0,0,8,21,6.69,53.52
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW10,sediment,S,0.1,0.589126326,124.84639,1.594530865,58.47,83.7,27,27.22,8.67,234.09,0,0,0,0,0,0,0,0,8,21,6.69,53.52
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW11,Rhizophora apiculata,P06,0.928571429,1.956436851,124.8461314,1.594107223,57.79,98,15,22.26,7.09,106.35,0,0,0,0,0,0,0,0,3,18.33,5.84,17.52
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW11,sediment,S,0.071428571,0.525568527,124.8461314,1.594107223,57.79,98,15,22.26,7.09,106.35,0,0,0,0,0,0,0,0,3,18.33,5.84,17.52
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW12,Rhizophora apiculata,P06,0.909090909,2.20899913,124.8460014,1.594521985,57.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sulawesi,Tiwoho,Mixed Species Regeneration,TW12,sediment,S,0.090909091,0.715159995,124.8460014,1.594521985,57.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sulawesi,Tiwoho,Reference Forest,TW13,Ceriops tagal,P05,0.230769231,0.727949514,124.8440647,1.594242529,84.47,68.6,10,27.4,8.73,87.3,0,0,0,0,1,11,3.5,3.5,6,9,2.87,17.22
+Sulawesi,Tiwoho,Reference Forest,TW13,Rhizophora apiculata,P06,0.769230769,1.169168005,124.8440647,1.594242529,84.47,68.6,10,27.4,8.73,87.3,0,0,0,0,1,11,3.5,3.5,6,9,2.87,17.22
+Sulawesi,Tiwoho,Reference Forest,TW13,sediment,S,0.230769231,0.570676538,124.8440647,1.594242529,84.47,68.6,10,27.4,8.73,87.3,0,0,0,0,1,11,3.5,3.5,6,9,2.87,17.22
+Sulawesi,Tiwoho,Reference Forest,TW14,Ceriops tagal,P05,0.076923077,0.467489615,124.8441505,1.594247974,73.96,91,11,61.91,19.72,216.92,0,0,0,0,1,25,7.96,7.96,0,0,0,0
+Sulawesi,Tiwoho,Reference Forest,TW14,Rhizophora apiculata,P06,0.846153846,2.280996821,124.8441505,1.594247974,73.96,91,11,61.91,19.72,216.92,0,0,0,0,1,25,7.96,7.96,0,0,0,0
+Sulawesi,Tiwoho,Reference Forest,TW14,sediment,S,0.153846154,0.671549476,124.8441505,1.594247974,73.96,91,11,61.91,19.72,216.92,0,0,0,0,1,25,7.96,7.96,0,0,0,0
+Sulawesi,Tiwoho,Reference Forest,TW15,Ceriops tagal,P05,0.142857143,0.555261891,124.8440346,1.594291269,76.76,99.2,13,38,12.1,157.3,0,0,0,0,6,25.17,8.01,48.06,5,14.2,4.52,22.6
+Sulawesi,Tiwoho,Reference Forest,TW15,Rhizophora apiculata,P06,0.928571429,1.547118743,124.8440346,1.594291269,76.76,99.2,13,38,12.1,157.3,0,0,0,0,6,25.17,8.01,48.06,5,14.2,4.52,22.6
+Sulawesi,Tiwoho,Reference Forest,TW15,sediment,S,0.214285714,0.677331012,124.8440346,1.594291269,76.76,99.2,13,38,12.1,157.3,0,0,0,0,6,25.17,8.01,48.06,5,14.2,4.52,22.6
+Sulawesi,Tiwoho,Reference Forest,TW16,Rhizophora apiculata,P06,1,1.241726335,124.8441365,1.594305213,57.53,92.6,21,26.52,8.45,177.45,0,0,0,0,1,22,7.01,7.01,3,11,3.5,10.5
+Sulawesi,Tiwoho,Reference Forest,TW16,sediment,S,0.111111111,0.608387742,124.8441365,1.594305213,57.53,92.6,21,26.52,8.45,177.45,0,0,0,0,1,22,7.01,7.01,3,11,3.5,10.5
+Sulawesi,Tiwoho,Reference Forest,TW17,Rhizophora apiculata,P06,0.818181818,1.148625638,124.8442108,1.594334482,77.47,88.6,26,20.54,6.54,170.04,0,0,0,0,2,14.5,4.62,9.24,0,0,0,0
+Sulawesi,Tiwoho,Reference Forest,TW17,sediment,S,0.272727273,0.909151944,124.8442108,1.594334482,77.47,88.6,26,20.54,6.54,170.04,0,0,0,0,2,14.5,4.62,9.24,0,0,0,0
+Sulawesi,Tiwoho,Reference Forest,TW18,Rhizophora apiculata,P06,1,1.213931697,124.8440008,1.594355845,62.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sulawesi,Tiwoho,Reference Forest,TW18,sediment,S,0.166666667,0.846503619,124.8440008,1.594355845,62.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
